@@ -1,4 +1,4 @@
-# My shortcuts
+#!/bin/bash
 
 # Change directory to that of the git repository which contains students' homework.
 alias nsucs='cd ~/Documents/school/cs2013/fall_2012_csi_csii_submit'
