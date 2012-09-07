@@ -11,7 +11,7 @@ Therefore, I began to create small tools (initially and primarily) in the
 form of aliases to streamline the grading process.
 
 
-aliases
+aliases.sh
 =======
 This is a simple text file (copied from my ~/.bashrc) containing the 
 alias definitions I created to streamline the process. It includes:
